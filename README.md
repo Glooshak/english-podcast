@@ -1,3 +1,3 @@
 # english-podcast
 
-Utilities that facilitates studying English
+Utilities that facilitate studying English
