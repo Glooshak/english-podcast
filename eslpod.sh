@@ -19,6 +19,6 @@ else
 	echo ${current_episode} > $target_directory/$state_file
 	echo "Started listening ${current_episode}"
 	cvlc --audio-replay-gain-mode none $current_episode_path > /dev/null 2>&1
-	echo "Finished liestening ${current_episode}"
+	echo "Finished listening ${current_episode}"
 fi
 
