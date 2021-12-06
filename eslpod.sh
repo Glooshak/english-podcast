@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
 
+#This script work with cvlv audio programm
+
+# path to a directory where episodes placed
 target_directory=$ENGLISH_PODCAST_DIRECTORY
+# file which holds a state of listening
 state_file=$ENGLISH_STATE_FILE
+# number of all episodes
 final_episode=603
 
 preceding_episode=$(cat $target_directory/$state_file)
