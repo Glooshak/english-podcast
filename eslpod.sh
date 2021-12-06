@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#This script work with cvlv audio programm
+#This script works with cvlc audio programm
 
 # path to a directory where episodes placed
 target_directory=$ENGLISH_PODCAST_DIRECTORY
